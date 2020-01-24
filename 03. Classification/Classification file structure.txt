@@ -1,0 +1,9 @@
+Classification 
+	      |- Logistic Regression
+	      |- K-Nearest Neighbour
+	      |- Support Vector Machine
+	      |- Kernel SVM
+	      |- Naive Bayes
+	      |- Decision Tree classification
+	      |- Random Forest Classification
+		
