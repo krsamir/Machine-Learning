@@ -1,0 +1,2 @@
+Association Rule Learning is basically a recommender system which puts suggestions or recommendations.
+Ex. If a person watches a certain movies then what other movies he can watch, or ih he person buys something what other things he can buy.
