@@ -12,3 +12,4 @@ $Accuracy = \frac{(TP + TN)}{(TP + TN + FP + FN)}$<br>
 $Precision = \frac{TP}{(TP + FP)}$<br>
 $Recall = \frac{TP}{(TP + FN)}$<br>
 $F1 Score = \frac{2 * Precision * Recall}{(Precision + Recall)}$<br>
+$\frac{X}{y}$
