@@ -1,1 +1,2 @@
 fig=plt.figure(figsize=(18, 16), dpi= 80, facecolor='w', edgecolor='k')
+#plt.figure(figsize=(18, 16))
