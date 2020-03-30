@@ -1,0 +1,2 @@
+Since the dataset of this Model is quite large in size, therefore a link is provided for download.
+[Click this link for the dataset.](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P14-Convolutional-Neural-Networks.zip)
