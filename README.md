@@ -34,6 +34,3 @@ This repository Contains machine Learning `algorithm codes`, `datasets` and `cod
 * Principal Component Analysis (PCA)
 * Linear Component Analysis(LDA)
 ### [Model Selection & Boosting](https://github.com/krsamir/Machine-Learning/tree/master/10.%20Model%20Selectio%20%2%20Boosting)
-***
-## Small Project
-### [Image Compression](https://github.com/krsamir/Machine-Learning/tree/master/ITRA-Workshop/Image%20Compression)
